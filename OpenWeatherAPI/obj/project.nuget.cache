@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o3d2Jm+PKBprBe8t9ACe8d+Nz0TorTEypphpJSV1twcdwnharNd55SPAuRWSnRiXSDTfjQt5lR+I7HdT4fNenA==",
+  "success": true,
+  "projectFilePath": "/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/OpenWeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/austinhodge/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
