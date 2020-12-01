@@ -1,0 +1,14 @@
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/bin/Debug/netcoreapp3.1/OpenWeatherAPI.deps.json
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/bin/Debug/netcoreapp3.1/OpenWeatherAPI.runtimeconfig.json
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/bin/Debug/netcoreapp3.1/OpenWeatherAPI.runtimeconfig.dev.json
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/bin/Debug/netcoreapp3.1/OpenWeatherAPI.dll
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/bin/Debug/netcoreapp3.1/OpenWeatherAPI.pdb
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/obj/Debug/netcoreapp3.1/OpenWeatherAPI.csprojAssemblyReference.cache
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/obj/Debug/netcoreapp3.1/OpenWeatherAPI.AssemblyInfoInputs.cache
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/obj/Debug/netcoreapp3.1/OpenWeatherAPI.AssemblyInfo.cs
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/obj/Debug/netcoreapp3.1/OpenWeatherAPI.csproj.CoreCompileInputs.cache
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/obj/Debug/netcoreapp3.1/OpenWeatherAPI.csproj.CopyComplete
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/obj/Debug/netcoreapp3.1/OpenWeatherAPI.dll
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/obj/Debug/netcoreapp3.1/OpenWeatherAPI.pdb
+/Users/austinhodge/Desktop/repos/OpenWeatherAPI/OpenWeatherAPI/obj/Debug/netcoreapp3.1/OpenWeatherAPI.genruntimeconfig.cache
